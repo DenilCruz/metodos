@@ -1,0 +1,35 @@
+# Python bytecode y cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo (Windows / macOS)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Empaquetado y distribución (PyInstaller, build, etc.)
+build/
+dist/
+*.spec
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Exportaciones temporales de imágenes
+*.png
